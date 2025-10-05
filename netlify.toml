@@ -1,6 +1,6 @@
 [build]
   base = "chatbot-ui"
-  publish = "chatbot-ui/build"
+  publish = "build"
   command = "CI= npm run build"
 
 [build.environment]
